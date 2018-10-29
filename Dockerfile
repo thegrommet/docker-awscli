@@ -1,2 +1,2 @@
 FROM amazonlinux
-RUN yum install awscli tar pax -y
+RUN yum install awscli tar pax gzip -y
